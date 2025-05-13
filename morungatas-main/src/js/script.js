@@ -1,6 +1,4 @@
-$(window).on("load", function () {
-  $(".loader-wrapper").fadeOut("slow")
-})
+
 
 
 const newYear = new Date('may 17, 2025').getTime();
